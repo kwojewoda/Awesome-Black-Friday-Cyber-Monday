@@ -511,6 +511,7 @@ Total deals: 489
 | 📄 | [DocuGenerate](https://www.docugenerate.com/) | DocuGenerate provides a scalable platform for generating high-quality PDF documents. Developers can leverage our REST API to add document generation to their apps, while non-developers can effortlessly use our No-Code integrations. | **50% OFF** for the First 3 Months with code **BLACKFRIDAY2024**|
 | 📬| [RogerRoger](https://rogerroger.io) | This next-gen sales inbox brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It has a built-in sales pipeline and a hint of CRM, helping you manage follow-ups and keeping your conversations front and center. | 40% off all plans with code *BF2024SALE* . Nov 22 - Dec 3 |
 | 💡| [ProductLogz](https://productlogz.com) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications. | **10% OFF** on the LTD Plans with code *BF2024SALE* . Nov 24 - Dec 6 |
+| 💰 | [Calamari](https://www.calamari.io/?utm_source=github-awesome-blackfriday) | HR platform with easy-to-use tools for leave management, time & attendance tracking and employee document storage | 30% discount for first payment until 2nd Dec. [Talk with us](https://calamari.io/contact) - BF24_30OFF |
 
 
 
